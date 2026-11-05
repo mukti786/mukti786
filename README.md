@@ -1,61 +1,66 @@
-<p align="center">
-  <img src="assets/by-mukti-banner.svg" alt="Blush and lavender banner: Hi, I'm Mukti! Failing better every day. Breaking things, learning how they work, and building better technology. Computer Science Student · Software Engineering · Computer Vision · AI." width="100%" />
-</p>
+# Hi, I'm Mukti!
 
-<p align="center">
-  <em>by Mukti.</em>
-</p>
+<img align="right" width="38%" src="assets/hero-study.svg" alt="An abstract editorial illustration of layered ivory panels, fine technical lines, and connected nodes in muted blush, mauve, and lavender." />
 
-## A little about me
+**Failing better every day.**
 
-I’m pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I’m interested in software engineering, backend development, computer vision, artificial intelligence, and machine learning.
+Breaking things, learning how they work, and building better technology.
 
-I like understanding how technology works, experimenting with ideas, solving problems, and learning by building. I’m continuously improving my programming and engineering skills, one iteration at a time.
+<sub>Computer Science Student · Software Engineering · Computer Vision · AI</sub>
 
-## Areas I’m exploring
+<br clear="right" />
 
-<p>
-  <code>Software Engineering</code> · <code>Backend Development</code> · <code>Data Structures &amp; Algorithms</code><br />
-  <code>Computer Vision</code> · <code>AI &amp; Machine Learning</code> · <code>Open Source</code>
-</p>
+---
 
-## Technologies I use
+## 01 — A little about me
 
-Based on the languages and tools in my public repositories:
+I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, artificial intelligence, and machine learning.
 
-| Languages | Building with |
-| --- | --- |
-| Python · JavaScript · TypeScript · R | Astro · Three.js · WebR |
+I like understanding how technology works, experimenting with ideas, solving problems, and learning by building.
 
-## GitHub, lately
-
-These cards are generated from my public GitHub activity. If an image service is unavailable, the linked GitHub profile remains the source of truth.
-
-<p align="center">
-  <a href="https://github.com/mukti786">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukti786&amp;theme=rose_pine" alt="Dynamically generated GitHub statistics for Mukti; open the GitHub profile if this card is unavailable." height="165" />
-  </a>
-  <a href="https://github.com/mukti786">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukti786&amp;theme=rose_pine" alt="Dynamically generated programming language breakdown across Mukti’s repositories; open the GitHub profile if this card is unavailable." height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mukti786">
-    <img src="https://ghchart.rshah.org/c08497/mukti786" alt="Dynamically generated GitHub contribution activity for Mukti; open the GitHub profile if this graph is unavailable." width="100%" />
-  </a>
-</p>
-
-## Still becoming
-
-<p align="center"><em>Still learning. Still experimenting. Always becoming a little better than yesterday. ✿</em></p>
-
-## Find me around the web
+## 02 — Areas I'm exploring
 
 <p>
-  <a href="https://github.com/mukti786">GitHub</a> ·
-  <a href="https://by-mukti.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mukti-pandit">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@Mukti_Pandit">YouTube</a> ·
-  <a href="mailto:mukti.pandit.dev@gmail.com">Email</a>
+  ⌘ &nbsp; Software Engineering &nbsp;&nbsp; · &nbsp;&nbsp; ↳ &nbsp; Backend Development &nbsp;&nbsp; · &nbsp;&nbsp; ∴ &nbsp; Data Structures &amp; Algorithms<br />
+  ◎ &nbsp; Computer Vision &nbsp;&nbsp; · &nbsp;&nbsp; ∿ &nbsp; AI &amp; Machine Learning &nbsp;&nbsp; · &nbsp;&nbsp; ↗ &nbsp; Open Source
+</p>
+
+## 03 — Technology, in practice
+
+<p><strong>⌘ &nbsp; 01 / LANGUAGES</strong><br />Python · JavaScript · TypeScript · R</p>
+<p><strong>◇ &nbsp; 02 / DEVELOPMENT</strong><br />Astro · React · Node.js · Three.js · Tailwind CSS</p>
+<p><strong>◉ &nbsp; 03 / AI &amp; DATA</strong><br />PyTorch · OpenCV · NumPy · WebR</p>
+<p><strong>↗ &nbsp; 04 / TOOLS</strong><br />Git · GitHub · Docker · Vercel</p>
+
+<sub>Selected from the languages, dependencies, and deployment files in my public repositories.</sub>
+
+## 04 — GitHub, at a glance
+
+<sub>Live cards based on public GitHub data · Open either card to view the source profile.</sub>
+
+<p align="center">
+  <a href="https://github.com/mukti786"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukti786&amp;theme=solarized" alt="Dynamically generated GitHub statistics for Mukti. Open the GitHub profile if the card is unavailable." width="49%" /></a>
+  <a href="https://github.com/mukti786"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukti786&amp;theme=solarized" alt="Dynamically generated language breakdown across Mukti's repositories. Open the GitHub profile if the card is unavailable." width="49%" /></a>
+</p>
+
+## 05 — Still becoming
+
+> Still learning. Still experimenting. Always becoming a little better than yesterday.
+
+## 06 — Find me
+
+<p>
+  <a href="https://github.com/mukti786">◉ GitHub</a> &nbsp; · &nbsp;
+  <a href="https://by-mukti.vercel.app">↗ Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mukti-pandit">↗ LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.youtube.com/@Mukti_Pandit">▶ YouTube</a> &nbsp; · &nbsp;
+  <a href="mailto:mukti.pandit.dev@gmail.com">✉ Email</a>
+</p>
+
+---
+
+## Contribution activity
+
+<p align="center">
+  <a href="https://github.com/mukti786"><img src="https://ghchart.rshah.org/b56576/mukti786" alt="Mukti's dynamically generated GitHub contribution graph. Open the GitHub profile if the graph is unavailable." width="100%" /></a>
 </p>
