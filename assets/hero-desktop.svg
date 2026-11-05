@@ -1,15 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Mukti! ✿</title>
-  <desc id="desc">Mukti is pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur, with interests in Software Engineering, Backend Development, Computer Vision and AI. Soft geometric blush and lavender shapes sit beside the text.</desc>
+  <desc id="desc">Mukti is pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur, with interests in Software Engineering, Backend Development, Computer Vision and AI. A floating code editor and terminal sit beside the text.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FBF8F5"/>
       <stop offset=".58" stop-color="#F6F1F2"/>
       <stop offset="1" stop-color="#F1EDF5"/>
-    </linearGradient>
-    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E8C7D2" stop-opacity=".76"/>
-      <stop offset="1" stop-color="#D9D0E5" stop-opacity=".68"/>
     </linearGradient>
   </defs>
   <rect x="9" y="9" width="1182" height="412" rx="28" fill="url(#paper)" stroke="#D9D0E5" stroke-width="1.5"/>
@@ -24,18 +20,32 @@
     <text x="74" y="350" font-size="21">Computer Vision and AI.</text>
   </g>
 
-  <g>
-    <circle cx="1013" cy="204" r="150" fill="url(#wash)" opacity=".78"/>
-    <circle cx="1064" cy="142" r="92" fill="#E8C7D2" opacity=".46"/>
-    <circle cx="988" cy="206" r="104" fill="none" stroke="#A88A9E" stroke-opacity=".58" stroke-width="1.4"/>
-    <circle cx="988" cy="206" r="70" fill="none" stroke="#A88A9E" stroke-opacity=".36" stroke-width="1.2"/>
-    <path d="M873 276c42-86 93-144 185-188m-150 229c74-37 145-44 231-14" fill="none" stroke="#8D7D8D" stroke-opacity=".48" stroke-width="1.4"/>
-    <path d="M925 84 1117 318M875 175h257M942 334l183-191" fill="none" stroke="#FFFFFF" stroke-opacity=".74" stroke-width="1.2"/>
-    <circle cx="925" cy="84" r="5" fill="#C58FA3"/>
-    <circle cx="1117" cy="318" r="5" fill="#A88A9E"/>
-    <circle cx="1132" cy="175" r="4" fill="#C58FA3"/>
-    <circle cx="942" cy="334" r="4" fill="#A88A9E"/>
-    <rect x="1066" y="259" width="65" height="65" rx="20" fill="#FBF8F5" fill-opacity=".8" stroke="#D9D0E5" stroke-width="1.2" transform="rotate(14 1098 291)"/>
-    <circle cx="1098" cy="291" r="6" fill="#C58FA3"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <rect x="836" y="82" width="316" height="236" rx="18" fill="#8D7D8D" opacity=".13"/>
+    <rect x="832" y="74" width="316" height="236" rx="18" fill="#FFFEFC" stroke="#D9D0E5" stroke-width="1.5"/>
+    <path d="M850 74h280a18 18 0 0 1 18 18v30H832V92a18 18 0 0 1 18-18Z" fill="#F6F1F2"/>
+    <circle cx="853" cy="96" r="5" fill="#C58FA3"/>
+    <circle cx="870" cy="96" r="5" fill="#E8C7D2"/>
+    <circle cx="887" cy="96" r="5" fill="#A88A9E"/>
+    <text x="907" y="100" fill="#817984" font-family="Arial, Helvetica, sans-serif" font-size="12">ideas.js</text>
+    <rect x="1074" y="82" width="56" height="28" rx="9" fill="#EDE8F1"/>
+    <text x="1084" y="101" fill="#8D7184" font-size="12" font-weight="700">&lt;/&gt;</text>
+    <path d="M832 122h316" stroke="#E5E0E3" stroke-width="1"/>
+    <text x="851" y="154" fill="#A88A9E" font-size="12">01</text>
+    <text x="851" y="184" fill="#A88A9E" font-size="12">02</text>
+    <text x="851" y="214" fill="#A88A9E" font-size="12">03</text>
+    <text x="851" y="244" fill="#A88A9E" font-size="12">04</text>
+    <text x="881" y="154" font-size="13"><tspan fill="#A88A9E">const</tspan><tspan fill="#514A52"> idea </tspan><tspan fill="#948B93">= </tspan><tspan fill="#C58FA3">&quot;hello&quot;</tspan><tspan fill="#948B93">;</tspan></text>
+    <text x="881" y="184" font-size="13"><tspan fill="#A88A9E">function</tspan><tspan fill="#514A52"> build() {</tspan></text>
+    <text x="881" y="214" font-size="13"><tspan fill="#514A52">  learn(idea);</tspan></text>
+    <text x="881" y="244" font-size="13" fill="#514A52">}</text>
+
+    <rect x="911" y="286" width="244" height="88" rx="14" fill="#8D7D8D" opacity=".16"/>
+    <rect x="907" y="280" width="244" height="88" rx="14" fill="#FBF8F5" stroke="#D9D0E5" stroke-width="1.4"/>
+    <path d="M921 280h216a14 14 0 0 1 14 14v14H907v-14a14 14 0 0 1 14-14Z" fill="#F1EDF5"/>
+    <text x="924" y="299" fill="#817984" font-family="Arial, Helvetica, sans-serif" font-size="11">terminal</text>
+    <path d="M921 322h7l4 5-4 5h-7" fill="none" stroke="#C58FA3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="940" y="333" fill="#514A52" font-size="13">npm run dev</text>
+    <rect x="1044" y="322" width="7" height="14" rx="1" fill="#A88A9E" opacity=".8"/>
   </g>
 </svg>
