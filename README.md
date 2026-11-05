@@ -5,7 +5,9 @@
   </picture>
 </p>
 
-## Areas of interest
+## <font color="#C58FA3">Areas of interest</font>
+
+<p><img src="assets/section-divider.svg" width="100%" height="3" alt="" /></p>
 
 <table width="100%" border="0" cellpadding="14" cellspacing="10">
   <tr>
@@ -22,33 +24,45 @@
   </tr>
 </table>
 
-## Technology stack
+## <font color="#C58FA3">Technology stack</font>
 
-### <font color="#A88A9E">Languages</font>
+<p><img src="assets/section-divider.svg" width="100%" height="3" alt="" /></p>
+
+### <font color="#E8C7D2">Languages</font>
+
+<p><img src="assets/category-accent.svg" width="42" height="3" alt="" /></p>
 
 <p align="left">
   <img src="assets/icons/python.svg" width="40" height="40" align="middle" alt="Python logo" />&nbsp;&nbsp;&nbsp;<strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/javascript.svg" width="40" height="40" align="middle" alt="JavaScript logo" />&nbsp;&nbsp;&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/typescript.svg" width="40" height="40" align="middle" alt="TypeScript logo" />&nbsp;&nbsp;&nbsp;<strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/r.svg" width="40" height="40" align="middle" alt="R logo" />&nbsp;&nbsp;&nbsp;<strong>R</strong>
 </p>
 
-### <font color="#A88A9E">Development</font>
+### <font color="#E8C7D2">Development</font>
+
+<p><img src="assets/category-accent.svg" width="42" height="3" alt="" /></p>
 
 <p align="left">
   <img src="assets/icons/astro.svg" width="40" height="40" align="middle" alt="Astro logo" />&nbsp;&nbsp;&nbsp;<strong>Astro</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/react.svg" width="40" height="40" align="middle" alt="React logo" />&nbsp;&nbsp;&nbsp;<strong>React</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/nodedotjs.svg" width="40" height="40" align="middle" alt="Node.js logo" />&nbsp;&nbsp;&nbsp;<strong>Node.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/threedotjs.svg" width="40" height="40" align="middle" alt="Three.js logo" />&nbsp;&nbsp;&nbsp;<strong>Three.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/tailwindcss.svg" width="40" height="40" align="middle" alt="Tailwind CSS logo" />&nbsp;&nbsp;&nbsp;<strong>Tailwind CSS</strong>
 </p>
 
-### <font color="#A88A9E">AI &amp; Data</font>
+### <font color="#E8C7D2">AI &amp; Data</font>
+
+<p><img src="assets/category-accent.svg" width="42" height="3" alt="" /></p>
 
 <p align="left">
   <img src="assets/icons/pytorch.svg" width="40" height="40" align="middle" alt="PyTorch logo" />&nbsp;&nbsp;&nbsp;<strong>PyTorch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/opencv.svg" width="40" height="40" align="middle" alt="OpenCV logo" />&nbsp;&nbsp;&nbsp;<strong>OpenCV</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/numpy.svg" width="40" height="40" align="middle" alt="NumPy logo" />&nbsp;&nbsp;&nbsp;<strong>NumPy</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/webr.svg" width="40" height="40" align="middle" alt="WebR logo" />&nbsp;&nbsp;&nbsp;<strong>WebR</strong>
 </p>
 
-### <font color="#A88A9E">Tools</font>
+### <font color="#E8C7D2">Tools</font>
+
+<p><img src="assets/category-accent.svg" width="42" height="3" alt="" /></p>
 
 <p align="left">
   <img src="assets/icons/git.svg" width="40" height="40" align="middle" alt="Git logo" />&nbsp;&nbsp;&nbsp;<strong>Git</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/github.svg" width="40" height="40" align="middle" alt="GitHub logo" />&nbsp;&nbsp;&nbsp;<strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/docker.svg" width="40" height="40" align="middle" alt="Docker logo" />&nbsp;&nbsp;&nbsp;<strong>Docker</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/vercel.svg" width="40" height="40" align="middle" alt="Vercel logo" />&nbsp;&nbsp;&nbsp;<strong>Vercel</strong>
 </p>
 
-## Connect
+## <font color="#C58FA3">Connect</font>
+
+<p><img src="assets/section-divider.svg" width="100%" height="3" alt="" /></p>
 
 <p align="left">
   <a href="https://github.com/mukti786" title="GitHub profile"><img src="assets/icons/social-github.svg" width="36" height="36" alt="GitHub profile" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
