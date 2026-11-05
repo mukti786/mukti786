@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 560px)" srcset="assets/hero-mobile.svg" />
-    <img src="assets/hero-desktop.svg" width="100%" alt="Hi, I'm Mukti! I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, and artificial intelligence. I enjoy exploring how things work behind the scenes, understanding the ideas behind technology, and turning what I learn into working projects. I'm currently strengthening my foundations in data structures and algorithms, exploring open-source development, and learning to build better, more thoughtful software through experimentation and continuous improvement. " />
+    <img src="assets/hero-desktop.svg" width="100%" alt="Hi, I'm Mukti! I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, and artificial intelligence. I enjoy exploring how things work behind the scenes, understanding the ideas behind technology, and turning what I learn into working projects. I'm currently strengthening my foundations in data structures and algorithms, exploring open-source development, and learning to build better, more thoughtful software through experimentation and continuous improvement." />
   </picture>
 </p>
 

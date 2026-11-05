@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Mukti! ✿</title>
-  <desc id="desc">I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, and artificial intelligence. I enjoy exploring how things work behind the scenes, understanding the ideas behind technology, and turning what I learn into working projects. I'm currently strengthening my foundations in data structures and algorithms, exploring open-source development, and learning to build better, more thoughtful software through experimentation and continuous improvement. ✿</desc>
+  <desc id="desc">I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, and artificial intelligence. I enjoy exploring how things work behind the scenes, understanding the ideas behind technology, and turning what I learn into working projects. I'm currently strengthening my foundations in data structures and algorithms, exploring open-source development, and learning to build better, more thoughtful software through experimentation and continuous improvement.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FBF8F5"/>
@@ -24,7 +24,7 @@
     <text x="74" y="507" font-size="21">I'm currently strengthening my foundations in data structures</text>
     <text x="74" y="538" font-size="21">and algorithms, exploring open-source development, and learning</text>
     <text x="74" y="569" font-size="21">to build better, more thoughtful software through experimentation</text>
-    <text x="74" y="600" font-size="21">and continuous improvement. ✿</text>
+    <text x="74" y="600" font-size="21">and continuous improvement.</text>
   </g>
 
   <g transform="translate(0 150)" font-family="Consolas, 'Courier New', monospace">
