@@ -1,66 +1,83 @@
-# Hi, I'm Mukti!
+# Hi, I'm Mukti! 👋
 
-<img align="right" width="38%" src="assets/hero-study.svg" alt="An abstract editorial illustration of layered ivory panels, fine technical lines, and connected nodes in muted blush, mauve, and lavender." />
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="62%" valign="middle">
+      <p>I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, artificial intelligence, and machine learning.</p>
+      <p>I enjoy understanding how technology works, experimenting with ideas, solving problems, and learning by building.</p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="assets/hero-study.svg" width="100%" alt="Abstract technical illustration of connected ideas on layered ivory panels, with muted mauve and lavender accents." />
+    </td>
+  </tr>
+</table>
 
-**Failing better every day.**
+## Areas of interest
 
-Breaking things, learning how they work, and building better technology.
+<table width="100%" border="0" cellpadding="14" cellspacing="8">
+  <tr>
+    <td width="50%" bgcolor="#F8F6F2" valign="middle"><img src="assets/icons/interest-engineering.svg" width="24" height="24" alt="" /> &nbsp; <strong>Software Engineering</strong></td>
+    <td width="50%" bgcolor="#F5F2F7" valign="middle"><img src="assets/icons/interest-backend.svg" width="24" height="24" alt="" /> &nbsp; <strong>Backend Development</strong></td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#F5F2F7" valign="middle"><img src="assets/icons/interest-algorithms.svg" width="24" height="24" alt="" /> &nbsp; <strong>Data Structures &amp; Algorithms</strong></td>
+    <td width="50%" bgcolor="#F8F6F2" valign="middle"><img src="assets/icons/interest-vision.svg" width="24" height="24" alt="" /> &nbsp; <strong>Computer Vision</strong></td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#F8F6F2" valign="middle"><img src="assets/icons/interest-learning.svg" width="24" height="24" alt="" /> &nbsp; <strong>AI &amp; Machine Learning</strong></td>
+    <td width="50%" bgcolor="#F5F2F7" valign="middle"><img src="assets/icons/interest-opensource.svg" width="24" height="24" alt="" /> &nbsp; <strong>Open Source</strong></td>
+  </tr>
+</table>
 
-<sub>Computer Science Student · Software Engineering · Computer Vision · AI</sub>
+## Technology stack
 
-<br clear="right" />
-
----
-
-## 01 — A little about me
-
-I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, artificial intelligence, and machine learning.
-
-I like understanding how technology works, experimenting with ideas, solving problems, and learning by building.
-
-## 02 — Areas I'm exploring
-
-<p>
-  ⌘ &nbsp; Software Engineering &nbsp;&nbsp; · &nbsp;&nbsp; ↳ &nbsp; Backend Development &nbsp;&nbsp; · &nbsp;&nbsp; ∴ &nbsp; Data Structures &amp; Algorithms<br />
-  ◎ &nbsp; Computer Vision &nbsp;&nbsp; · &nbsp;&nbsp; ∿ &nbsp; AI &amp; Machine Learning &nbsp;&nbsp; · &nbsp;&nbsp; ↗ &nbsp; Open Source
-</p>
-
-## 03 — Technology, in practice
-
-<p><strong>⌘ &nbsp; 01 / LANGUAGES</strong><br />Python · JavaScript · TypeScript · R</p>
-<p><strong>◇ &nbsp; 02 / DEVELOPMENT</strong><br />Astro · React · Node.js · Three.js · Tailwind CSS</p>
-<p><strong>◉ &nbsp; 03 / AI &amp; DATA</strong><br />PyTorch · OpenCV · NumPy · WebR</p>
-<p><strong>↗ &nbsp; 04 / TOOLS</strong><br />Git · GitHub · Docker · Vercel</p>
+<table width="100%" border="0" cellpadding="14" cellspacing="8">
+  <tr>
+    <td width="50%" bgcolor="#F8F6F2" valign="top">
+      <strong><sub>01 / LANGUAGES</sub></strong><br /><br />
+      <img src="assets/icons/python.svg" width="20" height="20" alt="" /> &nbsp; Python<br />
+      <img src="assets/icons/javascript.svg" width="20" height="20" alt="" /> &nbsp; JavaScript<br />
+      <img src="assets/icons/typescript.svg" width="20" height="20" alt="" /> &nbsp; TypeScript<br />
+      <img src="assets/icons/r.svg" width="20" height="20" alt="" /> &nbsp; R
+    </td>
+    <td width="50%" bgcolor="#F5F2F7" valign="top">
+      <strong><sub>02 / DEVELOPMENT</sub></strong><br /><br />
+      <img src="assets/icons/astro.svg" width="20" height="20" alt="" /> &nbsp; Astro<br />
+      <img src="assets/icons/react.svg" width="20" height="20" alt="" /> &nbsp; React<br />
+      <img src="assets/icons/nodedotjs.svg" width="20" height="20" alt="" /> &nbsp; Node.js<br />
+      <img src="assets/icons/threedotjs.svg" width="20" height="20" alt="" /> &nbsp; Three.js<br />
+      <img src="assets/icons/tailwindcss.svg" width="20" height="20" alt="" /> &nbsp; Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#F5F2F7" valign="top">
+      <strong><sub>03 / AI &amp; DATA</sub></strong><br /><br />
+      <img src="assets/icons/pytorch.svg" width="20" height="20" alt="" /> &nbsp; PyTorch<br />
+      <img src="assets/icons/opencv.svg" width="20" height="20" alt="" /> &nbsp; OpenCV<br />
+      <img src="assets/icons/numpy.svg" width="20" height="20" alt="" /> &nbsp; NumPy<br />
+      <img src="assets/icons/webr.svg" width="20" height="20" alt="" /> &nbsp; WebR
+    </td>
+    <td width="50%" bgcolor="#F8F6F2" valign="top">
+      <strong><sub>04 / TOOLS</sub></strong><br /><br />
+      <img src="assets/icons/git.svg" width="20" height="20" alt="" /> &nbsp; Git<br />
+      <img src="assets/icons/github.svg" width="20" height="20" alt="" /> &nbsp; GitHub<br />
+      <img src="assets/icons/docker.svg" width="20" height="20" alt="" /> &nbsp; Docker<br />
+      <img src="assets/icons/vercel.svg" width="20" height="20" alt="" /> &nbsp; Vercel
+    </td>
+  </tr>
+</table>
 
 <sub>Selected from the languages, dependencies, and deployment files in my public repositories.</sub>
 
-## 04 — GitHub, at a glance
+## Find me
 
-<sub>Live cards based on public GitHub data · Open either card to view the source profile.</sub>
-
-<p align="center">
-  <a href="https://github.com/mukti786"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukti786&amp;theme=solarized" alt="Dynamically generated GitHub statistics for Mukti. Open the GitHub profile if the card is unavailable." width="49%" /></a>
-  <a href="https://github.com/mukti786"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukti786&amp;theme=solarized" alt="Dynamically generated language breakdown across Mukti's repositories. Open the GitHub profile if the card is unavailable." width="49%" /></a>
-</p>
-
-## 05 — Still becoming
-
-> Still learning. Still experimenting. Always becoming a little better than yesterday.
-
-## 06 — Find me
-
-<p>
-  <a href="https://github.com/mukti786">◉ GitHub</a> &nbsp; · &nbsp;
-  <a href="https://by-mukti.vercel.app">↗ Portfolio</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/mukti-pandit">↗ LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://www.youtube.com/@Mukti_Pandit">▶ YouTube</a> &nbsp; · &nbsp;
-  <a href="mailto:mukti.pandit.dev@gmail.com">✉ Email</a>
-</p>
-
----
-
-## Contribution activity
-
-<p align="center">
-  <a href="https://github.com/mukti786"><img src="https://ghchart.rshah.org/b56576/mukti786" alt="Mukti's dynamically generated GitHub contribution graph. Open the GitHub profile if the graph is unavailable." width="100%" /></a>
-</p>
+<table width="100%" border="0" cellpadding="14" cellspacing="8">
+  <tr>
+    <td width="50%" bgcolor="#F8F6F2"><a href="https://github.com/mukti786"><img src="assets/icons/github.svg" width="22" height="22" alt="" /> &nbsp; <strong>GitHub</strong></a></td>
+    <td width="50%" bgcolor="#F5F2F7"><a href="https://www.linkedin.com/in/mukti-pandit"><img src="assets/icons/linkedin.svg" width="22" height="22" alt="" /> &nbsp; <strong>LinkedIn</strong></a></td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#F5F2F7"><a href="https://www.youtube.com/@Mukti_Pandit"><img src="assets/icons/youtube.svg" width="22" height="22" alt="" /> &nbsp; <strong>YouTube</strong></a></td>
+    <td width="50%" bgcolor="#F8F6F2"><a href="mailto:mukti.pandit.dev@gmail.com"><img src="assets/icons/mail.svg" width="22" height="22" alt="" /> &nbsp; <strong>Email</strong></a></td>
+  </tr>
+</table>
