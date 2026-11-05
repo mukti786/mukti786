@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="840" viewBox="0 0 600 840" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1100" viewBox="0 0 600 1100" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Mukti! ✿</title>
   <desc id="desc">I'm pursuing a B.Tech in Computer Science and Engineering at IIIT Naya Raipur. I'm interested in software engineering, backend development, computer vision, and artificial intelligence. I enjoy exploring how things work behind the scenes, understanding the ideas behind technology, and turning what I learn into working projects. I'm currently strengthening my foundations in data structures and algorithms, exploring open-source development, and learning to build better, more thoughtful software through experimentation and continuous improvement. ✿</desc>
   <defs>
@@ -8,26 +8,28 @@
       <stop offset="1" stop-color="#F1EDF5"/>
     </linearGradient>
   </defs>
-  <rect x="8" y="8" width="584" height="824" rx="30" fill="url(#paper)" stroke="#D9D0E5" stroke-width="1.5"/>
+  <rect x="8" y="8" width="584" height="1084" rx="30" fill="url(#paper)" stroke="#D9D0E5" stroke-width="1.5"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#514A52">
     <text x="48" y="115" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="600" letter-spacing="-.5">Hi, I'm Mukti! <tspan fill="#C58FA3" font-size="45">✿</tspan></text>
     <path d="M50 146h98" stroke="#C58FA3" stroke-width="2" stroke-linecap="round"/>
     <circle cx="50" cy="146" r="3" fill="#C58FA3"/>
-    <text x="50" y="210" font-size="20">I'm pursuing a B.Tech in Computer Science and</text>
-    <text x="50" y="236" font-size="20">Engineering at IIIT Naya Raipur.</text>
-    <text x="50" y="272" font-size="20">I'm interested in software engineering, backend</text>
-    <text x="50" y="298" font-size="20">development, computer vision, and artificial</text>
-    <text x="50" y="324" font-size="20">intelligence. I enjoy exploring how things work</text>
-    <text x="50" y="350" font-size="20">behind the scenes, understanding the ideas behind</text>
-    <text x="50" y="376" font-size="20">technology, and turning what I learn into working</text>
-    <text x="50" y="402" font-size="20">projects.</text>
-    <text x="50" y="438" font-size="20">I'm currently strengthening my foundations in</text>
-    <text x="50" y="464" font-size="20">data structures and algorithms,</text>
-    <text x="50" y="490" font-size="20">exploring open-source development, and learning</text>
-    <text x="50" y="516" font-size="20">to build better, more thoughtful software through</text>
-    <text x="50" y="542" font-size="20">experimentation and continuous improvement. ✿</text>
+    <text x="50" y="208" font-size="26">I'm pursuing a B.Tech in Computer Science</text>
+    <text x="50" y="244" font-size="26">and Engineering at IIIT Naya Raipur.</text>
+    <text x="50" y="309" font-size="26">I'm interested in software engineering,</text>
+    <text x="50" y="345" font-size="26">backend development, computer vision, and</text>
+    <text x="50" y="381" font-size="26">artificial intelligence. I enjoy exploring</text>
+    <text x="50" y="417" font-size="26">how things work behind the scenes,</text>
+    <text x="50" y="453" font-size="26">understanding the ideas behind technology,</text>
+    <text x="50" y="489" font-size="26">and turning what I learn into working</text>
+    <text x="50" y="525" font-size="26">projects.</text>
+    <text x="50" y="590" font-size="26">I'm currently strengthening my foundations</text>
+    <text x="50" y="626" font-size="26">in data structures and algorithms, exploring</text>
+    <text x="50" y="662" font-size="26">open-source development, and learning to</text>
+    <text x="50" y="698" font-size="26">build better, more thoughtful software</text>
+    <text x="50" y="734" font-size="26">through experimentation and continuous</text>
+    <text x="50" y="770" font-size="26">improvement. ✿</text>
   </g>
-  <g transform="translate(0 100)" font-family="Consolas, 'Courier New', monospace">
+  <g transform="translate(0 350)" font-family="Consolas, 'Courier New', monospace">
     <rect x="91" y="472" width="418" height="165" rx="16" fill="#8D7D8D" opacity=".13"/>
     <rect x="87" y="466" width="418" height="165" rx="16" fill="#FFFEFC" stroke="#D9D0E5" stroke-width="1.5"/>
     <path d="M103 466h386a16 16 0 0 1 16 16v26H87v-26a16 16 0 0 1 16-16Z" fill="#F6F1F2"/>
