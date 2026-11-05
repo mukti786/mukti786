@@ -26,50 +26,33 @@
 
 ### <font color="#A88A9E">Languages</font>
 
-<p align="center">
-  <img src="assets/icons/python.svg" width="38" height="38" align="middle" alt="Python logo" />&nbsp; <strong>Python</strong> &nbsp;&nbsp;
-  <img src="assets/icons/javascript.svg" width="38" height="38" align="middle" alt="JavaScript logo" />&nbsp; <strong>JavaScript</strong> &nbsp;&nbsp;
-  <img src="assets/icons/typescript.svg" width="38" height="38" align="middle" alt="TypeScript logo" />&nbsp; <strong>TypeScript</strong> &nbsp;&nbsp;
-  <img src="assets/icons/r.svg" width="38" height="38" align="middle" alt="R logo" />&nbsp; <strong>R</strong>
+<p align="left">
+  <img src="assets/icons/python.svg" width="40" height="40" align="middle" alt="Python logo" />&nbsp;&nbsp;&nbsp;<strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/javascript.svg" width="40" height="40" align="middle" alt="JavaScript logo" />&nbsp;&nbsp;&nbsp;<strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/typescript.svg" width="40" height="40" align="middle" alt="TypeScript logo" />&nbsp;&nbsp;&nbsp;<strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/r.svg" width="40" height="40" align="middle" alt="R logo" />&nbsp;&nbsp;&nbsp;<strong>R</strong>
 </p>
 
 ### <font color="#A88A9E">Development</font>
 
-<p align="center">
-  <img src="assets/icons/astro.svg" width="38" height="38" align="middle" alt="Astro logo" />&nbsp; <strong>Astro</strong> &nbsp;&nbsp;
-  <img src="assets/icons/react.svg" width="38" height="38" align="middle" alt="React logo" />&nbsp; <strong>React</strong> &nbsp;&nbsp;
-  <img src="assets/icons/nodedotjs.svg" width="38" height="38" align="middle" alt="Node.js logo" />&nbsp; <strong>Node.js</strong> &nbsp;&nbsp;
-  <img src="assets/icons/threedotjs.svg" width="38" height="38" align="middle" alt="Three.js logo" />&nbsp; <strong>Three.js</strong> &nbsp;&nbsp;
-  <img src="assets/icons/tailwindcss.svg" width="38" height="38" align="middle" alt="Tailwind CSS logo" />&nbsp; <strong>Tailwind CSS</strong>
+<p align="left">
+  <img src="assets/icons/astro.svg" width="40" height="40" align="middle" alt="Astro logo" />&nbsp;&nbsp;&nbsp;<strong>Astro</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/react.svg" width="40" height="40" align="middle" alt="React logo" />&nbsp;&nbsp;&nbsp;<strong>React</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/nodedotjs.svg" width="40" height="40" align="middle" alt="Node.js logo" />&nbsp;&nbsp;&nbsp;<strong>Node.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/threedotjs.svg" width="40" height="40" align="middle" alt="Three.js logo" />&nbsp;&nbsp;&nbsp;<strong>Three.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/tailwindcss.svg" width="40" height="40" align="middle" alt="Tailwind CSS logo" />&nbsp;&nbsp;&nbsp;<strong>Tailwind CSS</strong>
 </p>
 
 ### <font color="#A88A9E">AI &amp; Data</font>
 
-<p align="center">
-  <img src="assets/icons/pytorch.svg" width="38" height="38" align="middle" alt="PyTorch logo" />&nbsp; <strong>PyTorch</strong> &nbsp;&nbsp;
-  <img src="assets/icons/opencv.svg" width="38" height="38" align="middle" alt="OpenCV logo" />&nbsp; <strong>OpenCV</strong> &nbsp;&nbsp;
-  <img src="assets/icons/numpy.svg" width="38" height="38" align="middle" alt="NumPy logo" />&nbsp; <strong>NumPy</strong> &nbsp;&nbsp;
-  <img src="assets/icons/webr.svg" width="38" height="38" align="middle" alt="WebR logo" />&nbsp; <strong>WebR</strong>
+<p align="left">
+  <img src="assets/icons/pytorch.svg" width="40" height="40" align="middle" alt="PyTorch logo" />&nbsp;&nbsp;&nbsp;<strong>PyTorch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/opencv.svg" width="40" height="40" align="middle" alt="OpenCV logo" />&nbsp;&nbsp;&nbsp;<strong>OpenCV</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/numpy.svg" width="40" height="40" align="middle" alt="NumPy logo" />&nbsp;&nbsp;&nbsp;<strong>NumPy</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/webr.svg" width="40" height="40" align="middle" alt="WebR logo" />&nbsp;&nbsp;&nbsp;<strong>WebR</strong>
 </p>
 
 ### <font color="#A88A9E">Tools</font>
 
-<p align="center">
-  <img src="assets/icons/git.svg" width="38" height="38" align="middle" alt="Git logo" />&nbsp; <strong>Git</strong> &nbsp;&nbsp;
-  <img src="assets/icons/github.svg" width="38" height="38" align="middle" alt="GitHub logo" />&nbsp; <strong>GitHub</strong> &nbsp;&nbsp;
-  <img src="assets/icons/docker.svg" width="38" height="38" align="middle" alt="Docker logo" />&nbsp; <strong>Docker</strong> &nbsp;&nbsp;
-  <img src="assets/icons/vercel.svg" width="38" height="38" align="middle" alt="Vercel logo" />&nbsp; <strong>Vercel</strong>
+<p align="left">
+  <img src="assets/icons/git.svg" width="40" height="40" align="middle" alt="Git logo" />&nbsp;&nbsp;&nbsp;<strong>Git</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/github.svg" width="40" height="40" align="middle" alt="GitHub logo" />&nbsp;&nbsp;&nbsp;<strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/docker.svg" width="40" height="40" align="middle" alt="Docker logo" />&nbsp;&nbsp;&nbsp;<strong>Docker</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/icons/vercel.svg" width="40" height="40" align="middle" alt="Vercel logo" />&nbsp;&nbsp;&nbsp;<strong>Vercel</strong>
 </p>
 
 ## Connect
 
-<table width="100%" border="0" cellpadding="16" cellspacing="10">
-  <tr>
-    <td width="50%" bgcolor="#F6F1F2" align="center" valign="middle"><a href="https://github.com/mukti786" title="GitHub profile"><img src="assets/icons/social-github.svg" width="32" height="32" alt="GitHub logo" /><br /><font color="#51464E"><strong>GitHub</strong></font></a></td>
-    <td width="50%" bgcolor="#F8F5F8" align="center" valign="middle"><a href="https://www.linkedin.com/in/mukti-pandit" title="LinkedIn profile"><img src="assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn logo" /><br /><font color="#51464E"><strong>LinkedIn</strong></font></a></td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#F8F5F8" align="center" valign="middle"><a href="https://www.youtube.com/@Mukti_Pandit" title="YouTube channel"><img src="assets/icons/youtube.svg" width="32" height="32" alt="YouTube logo" /><br /><font color="#51464E"><strong>YouTube</strong></font></a></td>
-    <td width="50%" bgcolor="#F6F1F2" align="center" valign="middle"><a href="mailto:mukti.pandit.dev@gmail.com" title="Email Mukti"><img src="assets/icons/mail.svg" width="32" height="32" alt="Envelope" /><br /><font color="#51464E"><strong>Email</strong></font></a></td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/mukti786" title="GitHub profile"><img src="assets/icons/social-github.svg" width="36" height="36" alt="GitHub profile" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mukti-pandit" title="LinkedIn profile"><img src="assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn profile" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Mukti_Pandit" title="YouTube channel"><img src="assets/icons/youtube.svg" width="36" height="36" alt="YouTube channel" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mukti.pandit.dev@gmail.com" title="Email Mukti"><img src="assets/icons/mail.svg" width="36" height="36" alt="Email Mukti" /></a>
+</p>
